@@ -4,8 +4,18 @@ In this project, we explore the performance of different approaches to the segme
 
 ![Image Alt text](/images/animation_3d.gif)
 
+*Segmentation example*
+
 ![Image Alt text](/images/example_segmentation.png "Segmentation examples")
+
+
+*Segfromer predictions*
 
 ![Image Alt text](/images/segformer_predictions.png "Segformer predictions")
 
+
+*Results*
+
 ![Image Alt text](/images/model_results.png "Results")
+
+
