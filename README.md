@@ -18,4 +18,9 @@ In this project, we explore the performance of different approaches to the segme
 
 ![Image Alt text](/images/model_results.png "Results")
 
+## Dataset
+The Dataset used is from the *NCI-ISBI 2013 Challenge: Automated Segmentation of Prostate Structures (ISBI-MR-Prostate-2013)* 
+
+You can find the dataset at: [NCI-ISBI 2013 Challenge dataset](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=21267207)
+
 
